@@ -6,7 +6,7 @@ My name is Joshua, and I'm a Full Stack Engineer.
 - 🌱 I’m currently learning Tensor Flow and Machine Learning
 - 👯 I’m looking to collaborate on Fun new challenges.
 - 💬 Ask me about my business ventures.
-- 📫 To reach me, visit my website. 
+- 📫 To reach me, visit my website, [joshuagoodman.me](https://joshuagoodman.me). 
 <!--
 **jgx02c/jgx02c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
