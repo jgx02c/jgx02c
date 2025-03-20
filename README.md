@@ -2,7 +2,7 @@
 
 ### My name is **Joshua**, and I'm a Full Stack Engineer.
 
-- 🔭 I’m currently working on [Dialogica](https://www.dialogicaai.com/), helping Attourneys be the best in the courtroom.
+- 🔭 I’m currently working on [Dialogica](https://demo.dialogicaai.com/), helping Attourneys be the best in the courtroom.
 - 🌱 I’m currently learning TensorFlow and Machine Learning.
 - 👯 I’m looking to collaborate on fun new challenges.
 - 💬 Ask me about my business ventures.
