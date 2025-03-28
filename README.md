@@ -2,12 +2,12 @@
 
 ### My name is **Joshua**, and I'm a Full Stack Engineer.
 
-- 🔭 I’m currently working on [Dialogica](https://demo.dialogicaai.com/), helping Attourneys be the best in the courtroom.
-- 🌱 I’m currently learning TensorFlow and Machine Learning.
-- 👯 I’m looking to collaborate on fun new challenges.
-- 💬 Ask me about my business ventures.
-- 📫 To reach me, visit my website: [joshuagoodman.me](https://joshuagoodman.me).
-
+- 🔭 I’m currently working on Dialogica, helping attorneys be the best in the courtroom.
+- 📦 I’ve developed an NPM package called react-cursive-handwrite.
+- 🌱 I’m learning TensorFlow and diving into Machine Learning.
+- 👯 I’m open to collaborating on exciting new challenges.
+- 💬 Feel free to ask me about my business ventures.
+- 📫 Reach out via my website: joshuagoodman.me.
 ### 🛠 &nbsp;Tech Stack
 
 - 📜 &nbsp;Language:&nbsp;
