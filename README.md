@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-### My name is Joshua, and I am not a vibe coder — I’m a compile-it-and-pray specialist.
+### My name is Joshua. 
+##I am not a vibe coder — I’m a compile-it-and-pray specialist.
 
 - 🔭 I’m currently working on Dialogica, helping attorneys be the best in the courtroom.
 - 📦 I maintain an NPM package called react-cursive-handwrite, and a runtime .env injection tool.
