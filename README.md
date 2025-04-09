@@ -3,7 +3,7 @@
 ### My name is Joshua. 
 ### I am not a vibe coder — I’m a compile-it-and-pray specialist.
 
-- 🔭 I’m currently working on Dialogica, helping attorneys be the best in the courtroom.
+- 🔭 I’m currently working on a top secret project.
 - 📦 I maintain an NPM package called react-cursive-handwrite, and a runtime .env injection tool.
 - 🌱 I’m learning TensorFlow and diving into Machine Learning.
 - 👯 I’m open to collaborating on exciting new challenges.
