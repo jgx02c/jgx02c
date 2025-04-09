@@ -3,7 +3,7 @@
 ### My name is **Joshua**, and I'm a Full Stack Engineer.
 
 - 🔭 I’m currently working on Dialogica, helping attorneys be the best in the courtroom.
-- 📦 I’ve developed an NPM package called react-cursive-handwrite.
+- 📦 I maintain an NPM package called react-cursive-handwrite, and I’ve built a runtime .env injection tool.
 - 🌱 I’m learning TensorFlow and diving into Machine Learning.
 - 👯 I’m open to collaborating on exciting new challenges.
 - 💬 Feel free to ask me about my business ventures.
