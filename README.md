@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## My name is Joshua. 
+### My name is Joshua. 
 ### I am not a vibe coder — I’m a compile-it-and-pray specialist.
 
 - 🔭 I’m currently working on Dialogica, helping attorneys be the best in the courtroom.
