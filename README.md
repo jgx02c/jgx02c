@@ -4,7 +4,7 @@
 ### I am not a vibe coder — I’m a compile-it-and-pray specialist.
 
 - 🔭 I’m currently working on a top secret project.
-- 📦 I maintain an NPM package called react-cursive-handwrite, and a runtime .env injection tool.
+- 📦 I maintain an NPM package called react-cursive-handwrite.
 - 🌱 I’m learning TensorFlow and diving into Machine Learning.
 - 👯 I’m open to collaborating on exciting new challenges.
 - 💬 Feel free to ask me about my business ventures.
