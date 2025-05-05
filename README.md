@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ### My name is Joshua. 
-### I am not a vibe coder — I’m a compile-it-and-pray specialist.
 
 - 🔭 I’m currently working on Build Back, helping those in need.
 - 📦 I maintain an NPM package called react-cursive-handwrite.
