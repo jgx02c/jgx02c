@@ -2,9 +2,6 @@
 
 ### My name is Joshua. 
 
-# I started a new project on 5/19/25, working on a private GitHub account. I also use a company GitHub account at my new job. 
-
-
 - 🔭 I’m currently working on Build Back, helping those in need.
 - 📦 I maintain an NPM package called react-cursive-handwrite.
 - 🌱 I’m learning TensorFlow and diving into Machine Learning.
