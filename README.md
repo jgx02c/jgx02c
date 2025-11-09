@@ -2,7 +2,7 @@
 
 ### My name is Joshua. 
 
-- 🔭 I’m currently working on Dialogica.
+- 🔭 I’m currently working on Dialogica. All current contributions are under my work account since funding in August 2025.
 - 📦 I maintain an NPM package called react-cursive-handwrite.
 - 🌱 I’m learning TensorFlow and diving into Machine Learning.
 - 👯 I’m open to collaborating on exciting new challenges.
