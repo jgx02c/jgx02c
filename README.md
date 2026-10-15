@@ -1,6 +1,6 @@
 ## Joshua Goodman
 
-Co-founder & CTO of [Dialogica AI](https://joshuagoodman.me), building a new class of legal cognition. Principal-level engineer. I took Dialogica from zero to funded (August 2025) and built its technical foundation.
+Co-founder & SWE at Heart.
 
 Most of my current work lives under my work account, so this profile understates my activity.
 
